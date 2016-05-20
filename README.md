@@ -23,6 +23,14 @@ Latest versions:
 
 [v1.4 - released  9/14/2013](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tE0000000ISOx)
 
+## Installation
+##### Just click the button below
+
+<a href="https://githubsfdeploy.herokuapp.com?owner=edguz2408&repo=Relax">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+</a>
+
 
 
 Using Relax
